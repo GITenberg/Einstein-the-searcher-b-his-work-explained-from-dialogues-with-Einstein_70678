@@ -1,0 +1,33 @@
+_repo: Einstein-the-searcher-b-his-work-explained-from-dialogues-with-Einstein_70678
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brose, Henry L. (Henry Leopold)
+    alias: Brose, Henry Herman Leopold Adolf
+    birthdate: 1890
+    gutenberg_agent_id: '41983'
+    url: http://www.gutenberg.org/2009/agents/41983
+creator:
+  author:
+    agent_name: Moszkowski, Alexander
+    gutenberg_agent_id: '55860'
+    url: http://www.gutenberg.org/2009/agents/55860
+description: ''
+gutenberg_issued: '2023-04-30'
+identifiers:
+  gutenberg: '70678'
+language: en
+pgterms:marc904: https://archive.org/details/einsteinsearch00moszrich
+pgterms:marc905: 20230408033753moszkowski
+pgterms:marc906: '1921'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aUK :$bMethuen & Co., ltd., $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Einstein, the searcher; : $b his work explained from dialogues with Einstein'
+url: http://www.gutenberg.org/ebooks/70678
