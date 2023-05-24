@@ -7,12 +7,17 @@ contributor:
     birthdate: 1890
     gutenberg_agent_id: '41983'
     url: http://www.gutenberg.org/2009/agents/41983
+covers:
+- cover_type: archival
+  image_path: 70678-h/images/cover.jpg
 creator:
   author:
     agent_name: Moszkowski, Alexander
     gutenberg_agent_id: '55860'
     url: http://www.gutenberg.org/2009/agents/55860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70678#Einstein-the-searcher-b-his-work-explained-from-dialogues-with-Einstein
 gutenberg_issued: '2023-04-30'
 identifiers:
   gutenberg: '70678'
